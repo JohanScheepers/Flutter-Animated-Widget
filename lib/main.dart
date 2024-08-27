@@ -9,7 +9,7 @@ import 'package:flutter_animated_widget/widgets/relative_positioned_transition_e
 import 'package:flutter_animated_widget/widgets/size_transition_example.dart';
 import 'package:flutter_animated_widget/widgets/slide_transition_example.dart';
 
-/// Flutter code sample for [SlideTransition].
+
 
 void main() => runApp(const AnimatedWidgetExampleApp());
 
