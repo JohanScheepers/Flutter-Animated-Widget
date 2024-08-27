@@ -11,10 +11,10 @@ import 'package:flutter_animated_widget/widgets/slide_transition_example.dart';
 
 /// Flutter code sample for [SlideTransition].
 
-void main() => runApp(const SlideTransitionExampleApp());
+void main() => runApp(const AnimatedWidgetExampleApp());
 
-class SlideTransitionExampleApp extends StatelessWidget {
-  const SlideTransitionExampleApp({super.key});
+class AnimatedWidgetExampleApp extends StatelessWidget {
+  const AnimatedWidgetExampleApp({super.key});
 
   @override
   Widget build(BuildContext context) {
